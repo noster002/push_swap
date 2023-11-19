@@ -56,7 +56,7 @@ __rrr__ :
 
 `make` compiles the program.
 
-The program takes the numbers as parameters in descending order.
+The program takes the numbers as parameters in descending order.  
 E.g.:
 ```
 $ ./push_swap <nbr1> <nbr2> <...>
