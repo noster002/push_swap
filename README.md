@@ -56,8 +56,11 @@ __rrr__ :
 
 `make` compiles the program.
 
+The program takes the numbers as parameters in descending order.
+E.g.:
 ```
 $ ./push_swap <nbr1> <nbr2> <...>
 ```
-will put _nbr1_ on top of stack *a* and _nbr2_ just below.  
+will put _nbr1_ on top of stack __a__ and _nbr2_ just below.
+
 The numbers have to be integers.
